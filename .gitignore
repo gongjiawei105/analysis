@@ -1,0 +1,16 @@
+# Ignore environment folders
+.venv/
+__pycache__/
+catboost_info/
+
+# Ignore all figures and images
+*.png
+
+# Ignore model output folders
+CB Model/
+GBR Model/
+RF Model/
+Tuned CB Model/
+Tuned GBR Model/
+Tuned RF Model/
+Tuned XGB Model/
